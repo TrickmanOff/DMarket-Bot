@@ -1,5 +1,5 @@
 # DMarket-Bot
-Bot for auto-targeting and bying
+Bot for auto-targeting and bying skins on DMarket.
 
 [Sample of use (23 May 2020)](https://youtu.be/v5bs3faxc7c)
 
