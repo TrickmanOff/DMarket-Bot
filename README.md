@@ -15,4 +15,4 @@ After this bot adds a profit and fees to this price and sets the target.
 
 It is possible to upgrade this bot for full automatization of target-selling process.
 
-Also it can look at new offers (refreshing them periodically) and check whether it's good for buying: it gets the neccessary statistics about this skin from the site. If it is then bot tries to buy it.
+Also it can look at new offers (refreshing them periodically) and check whether there's one good for buying: it gets the neccessary statistics about this skin from the site. If it is then bot tries to buy it.
