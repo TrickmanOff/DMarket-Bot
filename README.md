@@ -14,7 +14,3 @@ If it is then bot gets the minimal price with which this skin could be sold.
 After this bot adds a profit and fees to this price and sets the target.
 
 It is possible to upgrade this bot for full automatization of target-selling process.
-
-# Does it work?
-
-Yeah, on test runs it gave a profit despite some fails due to mistakes in code and way of calculating values.
